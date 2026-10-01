@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mate Imperial Cuero",
+    "categoria": "Mates",
+    "precio": 38000,
+    "imagen": "https://placehold.co/600x600/8a5a3b/f3ecdd?text=Mate",
+    "descripcion": "Calabaza seleccionada forrada en cuero vacuno, con virola de alpaca. Curado y listo para usar."
+  },
+  {
+    "id": 2,
+    "nombre": "Mate Cerámica Terracota",
+    "categoria": "Mates",
+    "precio": 22000,
+    "imagen": "https://placehold.co/600x600/c06c4a/f3ecdd?text=Mate",
+    "descripcion": "Torneado a mano y esmaltado por dentro. Mantiene el calor y no transmite sabores."
+  },
+  {
+    "id": 3,
+    "nombre": "Bombilla Pico de Loro",
+    "categoria": "Accesorios",
+    "precio": 15000,
+    "imagen": "https://placehold.co/600x600/7d8f5c/f3ecdd?text=Bombilla",
+    "descripcion": "Acero inoxidable 18/8 con filtro desmontable para limpiar fácil."
+  },
+  {
+    "id": 4,
+    "nombre": "Set Matero Completo",
+    "categoria": "Sets",
+    "precio": 62000,
+    "imagen": "https://placehold.co/600x600/d9a441/232a1f?text=Set",
+    "descripcion": "Mate, bombilla, yerbera y azucarera en cerámica, dentro de una caja de regalo."
+  },
+  {
+    "id": 5,
+    "nombre": "Taza Cerámica Esmaltada",
+    "categoria": "Cerámica",
+    "precio": 14000,
+    "imagen": "https://placehold.co/600x600/5b7b73/f3ecdd?text=Taza",
+    "descripcion": "Taza de 300 ml, esmalte reactivo. Cada pieza es única."
+  },
+  {
+    "id": 6,
+    "nombre": "Yerbera Cerámica",
+    "categoria": "Cerámica",
+    "precio": 18500,
+    "imagen": "https://placehold.co/600x600/c9b690/232a1f?text=Yerbera",
+    "descripcion": "Con tapa hermética, capacidad para 500 g de yerba."
+  },
+  {
+    "id": 7,
+    "nombre": "Termo Pico Cebador",
+    "categoria": "Accesorios",
+    "precio": 54000,
+    "imagen": "https://placehold.co/600x600/3a4a33/f3ecdd?text=Termo",
+    "descripcion": "Acero inoxidable de 1 litro, mantiene el agua caliente hasta 24 horas."
+  },
+  {
+    "id": 8,
+    "nombre": "Plato Hondo Artesanal",
+    "categoria": "Cerámica",
+    "precio": 16500,
+    "imagen": "https://placehold.co/600x600/a4553a/f3ecdd?text=Plato",
+    "descripcion": "Gres esmaltado, apto lavavajillas y microondas."
+  }
+]
